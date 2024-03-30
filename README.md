@@ -7,8 +7,11 @@
 Técnica em Desenvolvimento de Sistemas pela ETEC - Ilza Nascimento Pintus, estudante do 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos - Prof. Jessen Vidal e Analista de Business Intelligence Trainee na V4 Company Wendling & Co. Meu interesse na área da tecnologia se intensificou no início do curso de Desenvolvimento de Sistemas, quando tive meu primeiro contato com HTML, CSS, arduíno, banco de dados e design digital. <br> Minha primerira experiência profissional na área foi como estagiária no CEPHAS (Colégio de Educação Profissional Hélio Augusto de Souza) onde fazia instalação e manutenção dos equipamentos de informática da instituição, instalação e suporte aos sistemas corporativos, ferramentas google e softwares utilizados pela instituição. Help desk: Atendimento e suporte aos usuários (professores e funcionários), suporte e manutenção a rede local, instalação e crimpagem de cabos. Também tive a oportunidade de estagiar na Cidade da Educação (Centro educacional em São José dos Campos) onde era realizado o atendimento e suporte remoto às escolas da Prefeitura Municipal de São José dos Campos. Instalação de impressoras, ferramentas google e softwares utilizados pela instituição. 
 
 ## Contatos
-* [GIT HUB]([https://www.git.com](https://github.com/elisadsc))
-* [LinkedIn]([https://www.linkedin.com](https://br.linkedin.com/in/elisa-carvalho-691322196))
+
+ <a href= "https://br.linkedin.com/in/elisa-carvalho-691322196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "https://github.com/elisadsc" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+
+<br>
 
 ## Meus Principais Conhecimentos
 
@@ -64,8 +67,8 @@ Desenvolvimento web com HTML - Realizo com autonomia <br>
 Estilização de Páginas Web com CSS - Realizo com autonomia <br>
 Plotagem de Gráficos com Python - Realizo com auxílio. <br>
 Hospedagem com Python, Flask e AWS - Realizo com auxílio. <br>
+<br>
 
-<br> 
 #### Soft Skills
 
 > Compromisso: Foi dedicado muito estudo por fora para utilização das novas linguagens de programação e frameworks relevantes para o projeto.
