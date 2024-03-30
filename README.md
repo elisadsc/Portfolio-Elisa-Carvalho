@@ -28,8 +28,8 @@ Técnica em Desenvolvimento de Sistemas pela ETEC - Ilza Nascimento Pintus, estu
  
   Framework
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-
-  <br>
+ <br>
+ <br>
   Banco de dados
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
