@@ -44,10 +44,10 @@ Confira mais informações clicando nesse link ->
 
 #### Tecnologias Utilizadas
 
-HTML: Utiilizada para a estruturação da página web.
-CSS: Utilizada para a estilização da página web.
-Python: Utilizada para a construção de gráficos e hospedagem utilizando Flask.
-Amazon Web Services: Utilizada para a hospedagem da aplicação web.
+HTML: Utiilizada para a estruturação da página web. <br>
+CSS: Utilizada para a estilização da página web. <br>
+Python: Utilizada para a construção de gráficos e hospedagem utilizando Flask. <br>
+Amazon Web Services: Utilizada para a hospedagem da aplicação web. <br>
 Figma: Utilizado para desenvolver o protótipo Wireframe apresentado ao cliente.
 
 <br>
@@ -60,10 +60,10 @@ Minha contribuição principal no projeto foi na criação e na atualização da
 
 #### Hard Skills
 
-Desenvolvimento web com HTML - Realizo com autonomia
-Estilização de Páginas Web com CSS - Realizo com autonomia
-Plotagem de Gráficos com Python - Realizo com auxílio.
-Hospedagem com Python, Flask e AWS - Realizo com auxílio.
+Desenvolvimento web com HTML - Realizo com autonomia <br>
+Estilização de Páginas Web com CSS - Realizo com autonomia <br>
+Plotagem de Gráficos com Python - Realizo com auxílio. <br>
+Hospedagem com Python, Flask e AWS - Realizo com auxílio. <br>
 
 <br> 
 #### Soft Skills
