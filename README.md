@@ -16,7 +16,7 @@ Técnica em Desenvolvimento de Sistemas pela ETEC - Ilza Nascimento Pintus, estu
 ## Meus Principais Conhecimentos
 
 <div align='center'>
-  <h1>Linguagens</h1>
+  Linguagens
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
