@@ -1,8 +1,5 @@
 # Portfolio - Elisa Carvalho
 
-
-<h1 align="center">Introdução</h1>
-
 ## Introdução
 
 <img align="right" src="https://github.com/elisadsc/Portfolio-Elisa-Carvalho/blob/main/Imagens/Elisa.jpeg" alt="Elisa.jpeg" width="200"/>
@@ -10,7 +7,7 @@
 Técnica em Desenvolvimento de Sistemas pela ETEC - Ilza Nascimento Pintus, estudante do 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos - Prof. Jessen Vidal e Analista de Business Intelligence Trainee na V4 Company Wendling & Co. Meu interesse na área da tecnologia se intensificou no início do curso de Desenvolvimento de Sistemas, quando tive meu primeiro contato com HTML, CSS, arduíno, banco de dados e design digital. <br> Minha primerira experiência profissional na área foi como estagiária no CEPHAS (Colégio de Educação Profissional Hélio Augusto de Souza) onde fazia instalação e manutenção dos equipamentos de informática da instituição, instalação e suporte aos sistemas corporativos, ferramentas google e softwares utilizados pela instituição. Help desk: Atendimento e suporte aos usuários (professores e funcionários), suporte e manutenção a rede local, instalação e crimpagem de cabos. Também tive a oportunidade de estagiar na Cidade da Educação (Centro educacional em São José dos Campos) onde era realizado o atendimento e suporte remoto às escolas da Prefeitura Municipal de São José dos Campos. Instalação de impressoras, ferramentas google e softwares utilizados pela instituição. 
 
 ## Contatos
-* [GIT]([https://www.git.com](https://github.com/elisadsc))
+* [GIT HUB]([https://www.git.com](https://github.com/elisadsc))
 * [LinkedIn]([https://www.linkedin.com](https://br.linkedin.com/in/elisa-carvalho-691322196))
 
 ## Meus Principais Conhecimentos
@@ -35,7 +32,7 @@ Técnica em Desenvolvimento de Sistemas pela ETEC - Ilza Nascimento Pintus, estu
 
 ## Meus Projetos
 
-### Em 2021-2
+### Em 2022-1
 
 O projeto foi proposto por um cliente interno (um professor) onde o objetivo deste projeto era o desenvolvimento um sistema web para automatizar o processo de catalogar vagas de diversas profissões principalmente TI e configurar métricas para pontos como tipos de conhecimento, habilidades e competências. Visualmente deveria ter informações do tipo estratégicas (gráficos), facilidades de usabilidade e operação bem como toda a documentação de desenvolvimento lastreado no Github com todos os processos necessários para a fidelização do cliente.
 
