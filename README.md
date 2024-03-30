@@ -7,7 +7,7 @@
 
 <img align="right" src="https://github.com/elisadsc/Portfolio-Elisa-Carvalho/blob/main/Imagens/Elisa.jpeg" alt="Elisa.jpeg" width="200"/>
 
-Técnica em Desenvolvimento de Sistemas pela ETEC - Ilza Nascimento Pintus, estudante do 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos - Prof. Jessen Vidal e Analista de Business Intelligence Trainee na V4 Company Wendling & Co. Meu interesse na área da tecnologia se intensificou no início do curso de Desenvolvimento de Sistemas, quando tive meu primeiro contato com HTML, CSS, arduíno, banco de dados e design digital. Minha primerira experiência profissional na área foi como estagiária no CEPHAS (Colégio de Educação Profissional Hélio Augusto de Souza) onde fazia instalação e manutenção dos equipamentos de informática da instituição, instalação e suporte aos sistemas corporativos, ferramentas google e softwares utilizados pela instituição. Help desk: Atendimento e suporte aos usuários (professores e funcionários), suporte e manutenção a rede local, instalação e crimpagem de cabos. Também tive a oportunidade de estagiar na Cidade da Educação (Centro educacional em São José dos Campos) onde era realizado o atendimento e suporte remoto às escolas da Prefeitura Municipal de São José dos Campos. Instalação de impressoras, ferramentas google e softwares utilizados pela instituição. 
+Técnica em Desenvolvimento de Sistemas pela ETEC - Ilza Nascimento Pintus, estudante do 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos - Prof. Jessen Vidal e Analista de Business Intelligence Trainee na V4 Company Wendling & Co. Meu interesse na área da tecnologia se intensificou no início do curso de Desenvolvimento de Sistemas, quando tive meu primeiro contato com HTML, CSS, arduíno, banco de dados e design digital. <br> Minha primerira experiência profissional na área foi como estagiária no CEPHAS (Colégio de Educação Profissional Hélio Augusto de Souza) onde fazia instalação e manutenção dos equipamentos de informática da instituição, instalação e suporte aos sistemas corporativos, ferramentas google e softwares utilizados pela instituição. Help desk: Atendimento e suporte aos usuários (professores e funcionários), suporte e manutenção a rede local, instalação e crimpagem de cabos. Também tive a oportunidade de estagiar na Cidade da Educação (Centro educacional em São José dos Campos) onde era realizado o atendimento e suporte remoto às escolas da Prefeitura Municipal de São José dos Campos. Instalação de impressoras, ferramentas google e softwares utilizados pela instituição. 
 
 ## Contatos
 * [GIT]([https://www.git.com](https://github.com/elisadsc))
@@ -31,6 +31,7 @@ Técnica em Desenvolvimento de Sistemas pela ETEC - Ilza Nascimento Pintus, estu
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
+<br>
 
 ## Meus Projetos
 
@@ -39,8 +40,10 @@ Técnica em Desenvolvimento de Sistemas pela ETEC - Ilza Nascimento Pintus, estu
 O projeto foi proposto por um cliente interno (um professor) onde o objetivo deste projeto era o desenvolvimento um sistema web para automatizar o processo de catalogar vagas de diversas profissões principalmente TI e configurar métricas para pontos como tipos de conhecimento, habilidades e competências. Visualmente deveria ter informações do tipo estratégicas (gráficos), facilidades de usabilidade e operação bem como toda a documentação de desenvolvimento lastreado no Github com todos os processos necessários para a fidelização do cliente.
 
 
-Confira mais informações clicando nesse link
+Confira mais informações clicando nesse link ->
 [GIT](https://github.com/elisadsc/API-FINDAT)
+
+<br>
 
 #### Tecnologias Utilizadas
 
@@ -50,9 +53,13 @@ Python: Utilizada para a construção de gráficos e hospedagem utilizando Flask
 Amazon Web Services: Utilizada para a hospedagem da aplicação web.
 Figma: Utilizado para desenvolver o protótipo Wireframe apresentado ao cliente.
 
+<br>
+
 #### Contribuições Pessoais
 
 Minha contribuição principal no projeto foi na criação e na atualização da estrutura da página de cursos e certificações, utilizando HTML para desenvolver e manter a organização e a formatação da página. Fiquei encarregada de fazer a pesquisa de cursos relevantes, garantindo que o conteúdo oferecido atendesse às necessidades e interesses do público-alvo além de correções e melhorias nas páginas que precisavam de atenção.
+
+<br>
 
 #### Hard Skills
 
@@ -61,6 +68,7 @@ Estilização de Páginas Web com CSS - Realizo com autonomia
 Plotagem de Gráficos com Python - Realizo com auxílio.
 Hospedagem com Python, Flask e AWS - Realizo com auxílio.
 
+<br> 
 #### Soft Skills
 
 > Compromisso: Foi dedicado muito estudo por fora para utilização das novas linguagens de programação e frameworks relevantes para o projeto.
