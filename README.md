@@ -14,7 +14,7 @@ Técnica em Desenvolvimento de Sistemas pela ETEC - Ilza Nascimento Pintus, estu
 <br>
 
 ## Meus Principais Conhecimentos
-
+<br>
 <div align='left'>
   Linguagens
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
