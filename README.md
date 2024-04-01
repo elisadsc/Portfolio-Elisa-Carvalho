@@ -67,6 +67,7 @@ Além disso, fui responsável por conduzir uma extensa pesquisa de cursos releva
 
 Além de criar e atualizar o conteúdo, também assumi a responsabilidade de identificar e corrigir quaisquer problemas ou deficiências nas páginas existentes. Isso incluiu a implementação de melhorias na usabilidade, correções de erros de codificação e aprimoramentos na apresentação visual. Trabalhei em estreita colaboração com a equipe para garantir que todas as páginas estivessem funcionando corretamente e oferecessem uma experiência de usuário otimizada 
 <br>
+<br>
 
 #### Hard Skills
 
