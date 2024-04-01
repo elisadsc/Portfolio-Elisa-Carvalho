@@ -65,7 +65,7 @@ Minha principal contribuição no projeto foi na criação e na atualização da
 
 Além disso, fui responsável por conduzir uma extensa pesquisa de cursos relevantes. Isso envolveu identificar as necessidades e interesses do público-alvo, bem como as tendências atuais do mercado. A pesquisa foi fundamental para garantir que o conteúdo oferecido na página de cursos e certificações fosse relevante, atualizado e atendesse às expectativas dos usuários. <br>
 
-Além de criar e atualizar o conteúdo, também assumi a responsabilidade de identificar e corrigir quaisquer problemas ou deficiências nas páginas existentes. Isso incluiu a implementação de melhorias na usabilidade, correções de erros de codificação e aprimoramentos na apresentação visual. Trabalhei em estreita colaboração com a equipe para garantir que todas as páginas estivessem funcionando corretamente e oferecessem uma experiência de usuário otimizada 
+Além de criar e atualizar o conteúdo, também assumi a responsabilidade de identificar e corrigir quaisquer problemas ou deficiências nas páginas existentes. Isso incluiu a implementação de melhorias na usabilidade, correções de erros de codificação e aprimoramentos na apresentação visual. Trabalhei em colaboração com a equipe para garantir que todas as páginas estivessem funcionando corretamente e oferecessem uma experiência de usuário otimizada 
 <br>
 <br>
 
