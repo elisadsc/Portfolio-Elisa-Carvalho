@@ -61,7 +61,7 @@ Figma: Utilizado para desenvolver o protótipo Wireframe apresentado ao cliente.
 
 #### Contribuições Pessoais
 
-Minha principal contribuição no projeto foi na criação e na atualização da estrutura da página de cursos e certificações. Utilizei HTML para desenvolver e manter a organização e a formatação da página, garantindo uma experiência de usuário agradável e prático. <br>
+Minha principal contribuição no projeto foi na criação e na atualização da estrutura da página de cursos e certificações. Utilizei HTML para desenvolver e manter a organização e a formatação da página, garantindo uma experiência de usuário agradável e prática. <br>
 
 Além disso, fui responsável por conduzir uma extensa pesquisa de cursos relevantes. Isso envolveu identificar as necessidades e interesses do público-alvo, bem como as tendências atuais do mercado. A pesquisa foi fundamental para garantir que o conteúdo oferecido na página de cursos e certificações fosse relevante, atualizado e atendesse às expectativas dos usuários. <br>
 
