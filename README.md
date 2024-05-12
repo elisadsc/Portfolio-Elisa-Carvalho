@@ -1,5 +1,12 @@
 # Portfolio - Elisa Carvalho
 
+  <a href ="#2022_1">Projeto 2022-1 </a>  •
+  <a href ="#proposta">Proposta </a>  • 
+  <a href ="#prototipo">Protótipo </a>  • 
+  <a href ="#cronograma-das-sprints">Cronograma das Sprints </a> •
+  <a href ="#backlog-do-produto">Backlog do Produto </a>
+  <br>
+
 ## Introdução
 
 <img align="right" src="https://github.com/elisadsc/Portfolio-Elisa-Carvalho/blob/main/Imagens/Elisa.jpeg" alt="Elisa.jpeg" width="200"/>
@@ -39,6 +46,7 @@ Técnica em Desenvolvimento de Sistemas pela ETEC - Ilza Nascimento Pintus, estu
 
 ## Meus Projetos
 
+## :2022_1: Em 2022-1
 ### Em 2022-1
 
 O projeto foi proposto por um cliente interno (um professor) onde o objetivo deste projeto era o desenvolvimento um sistema web para automatizar o processo de catalogar vagas de diversas profissões principalmente TI e configurar métricas para pontos como tipos de conhecimento, habilidades e competências. Visualmente deveria ter informações do tipo estratégicas (gráficos), facilidades de usabilidade e operação bem como toda a documentação de desenvolvimento lastreado no Github com todos os processos necessários para a fidelização do cliente.
@@ -84,3 +92,52 @@ Hospedagem com Python, Flask e AWS - Realizo com auxílio. <br>
 > Comunicação: Essencial para garantir a comunicação clara entre os membros da equipe, facilitando a colaboração e o compartilhamento de ideias de maneira eficiente.
 
 > Gestão de tempo: Utilizei técnicas de gestão do tempo para priorizar tarefas, definir metas e garantir que o projeto avançasse de acordo com o cronograma estabelecido.
+
+### Em 2022-2
+
+O projeto do segundo semestre foi focado no desenvolvimento de uma aplicação desktop em Java, projetada para facilitar o registro de canais de marketplaces, métodos de pagamento, plataformas e sistemas ERP. A aplicação permite o cadastramento seguro de informações críticas, como usuários, senhas e tokens fornecidos pelos clientes. Essa ferramenta é essencial para que nossa empresa parceira possa acessar e gerenciar as finanças das instituições cadastradas. Além disso, o software dispõe de funcionalidades para criação e gerenciamento de contas de usuários e operadores, e inclui interfaces específicas para adicionar, editar e gerenciar canais de forma eficiente e intuitiva.
+
+
+Confira mais informações clicando nesse link ->
+[GIT](https://github.com/elisadsc/API-TRACKCASH)
+
+<br>
+
+#### Tecnologias Utilizadas
+
+Java: Utilizado para desenvolver a lógica de negócios e a interface gráfica da aplicação. <br>
+Discord: Utilizado como plataforma de comunicação para facilitar a colaboração entre a equipe de desenvolvimento. <br>
+NetBeans: Utilizado como ambiente de desenvolvimento integrado (IDE) para escrever, testar e depurar o código Java. <br>
+Figma: Utilizado para desenvolver o protótipo Wireframe apresentado ao cliente. <br>
+GitHub: Utilizado para o controle de versão e documentação do projeto. <br>
+Canva: Utilizado para criar elementos gráficos e visuais para a documentação e apresentações do projeto. <br>
+MySQL: Utilizado para gerenciar o banco de dados da aplicação, armazenando informações de usuários, canais e transações.
+
+<br>
+
+#### Contribuições Pessoais
+
+Minha principal contribuição no projeto foi na criação e na atualização da estrutura da página de cursos e certificações. Utilizei HTML para desenvolver e manter a organização e a formatação da página, garantindo uma experiência de usuário agradável e prática. <br>
+
+Além disso, fui responsável por conduzir uma extensa pesquisa de cursos relevantes. Isso envolveu identificar as necessidades e interesses do público-alvo, bem como as tendências atuais do mercado. A pesquisa foi fundamental para garantir que o conteúdo oferecido na página de cursos e certificações fosse relevante, atualizado e atendesse às expectativas dos usuários. <br>
+
+Além de criar e atualizar o conteúdo, também assumi a responsabilidade de identificar e corrigir quaisquer problemas ou deficiências nas páginas existentes. Isso incluiu a implementação de melhorias na usabilidade, correções de erros de codificação e aprimoramentos na apresentação visual. Trabalhei em colaboração com a equipe para garantir que todas as páginas estivessem funcionando corretamente e oferecessem uma experiência de usuário otimizada 
+<br>
+<br>
+
+#### Hard Skills
+
+Desenvolvimento web com HTML - Realizo com autonomia <br>
+Estilização de Páginas Web com CSS - Realizo com autonomia <br>
+Plotagem de Gráficos com Python - Realizo com auxílio. <br>
+Hospedagem com Python, Flask e AWS - Realizo com auxílio. <br>
+<br>
+
+#### Soft Skills
+
+> Compromisso: Foi dedicado muito estudo por fora para utilização das novas linguagens de programação e frameworks relevantes para o projeto.
+
+> Comunicação: Essencial para garantir a comunicação clara entre os membros da equipe, facilitando a colaboração e o compartilhamento de ideias de maneira eficiente.
+
+> Gestão de tempo: Utilizei técnicas de gestão do tempo para priorizar tarefas, definir metas e garantir que o projeto avançasse de acordo com o cronograma estabelecido.
+
