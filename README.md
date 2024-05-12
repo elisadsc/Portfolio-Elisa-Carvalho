@@ -1,11 +1,5 @@
 # Portfolio - Elisa Carvalho
 
-  <a href ="#2022_1">Projeto 2022-1 </a>  •
-  <a href ="#proposta">Proposta </a>  • 
-  <a href ="#prototipo">Protótipo </a>  • 
-  <a href ="#cronograma-das-sprints">Cronograma das Sprints </a> •
-  <a href ="#backlog-do-produto">Backlog do Produto </a>
-  <br>
 
 ## Introdução
 
@@ -46,7 +40,6 @@ Técnica em Desenvolvimento de Sistemas pela ETEC - Ilza Nascimento Pintus, estu
 
 ## Meus Projetos
 
-## :2022_1: Em 2022-1
 ### Em 2022-1
 
 O projeto foi proposto por um cliente interno (um professor) onde o objetivo deste projeto era o desenvolvimento um sistema web para automatizar o processo de catalogar vagas de diversas profissões principalmente TI e configurar métricas para pontos como tipos de conhecimento, habilidades e competências. Visualmente deveria ter informações do tipo estratégicas (gráficos), facilidades de usabilidade e operação bem como toda a documentação de desenvolvimento lastreado no Github com todos os processos necessários para a fidelização do cliente.
