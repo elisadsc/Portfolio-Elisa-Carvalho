@@ -74,8 +74,8 @@ Além de criar e atualizar o conteúdo, também assumi a responsabilidade de ide
 
 Desenvolvimento web com HTML - Realizo com autonomia <br>
 Estilização de Páginas Web com CSS - Realizo com autonomia <br>
-Plotagem de Gráficos com Python - Realizo com auxílio. <br>
-Hospedagem com Python, Flask e AWS - Realizo com auxílio. <br>
+Plotagem de Gráficos com Python - Realizo com auxílio <br>
+Hospedagem com Python, Flask e AWS - Realizo com auxílio <br>
 <br>
 
 #### Soft Skills
