@@ -80,10 +80,6 @@ Hospedagem com Python, Flask e AWS - Realizo com auxílio. <br>
 
 #### Soft Skills
 
-
-Gestão Eficiente do Tempo:
-Empreguei diversas técnicas de gestão do tempo para garantir que o projeto avançasse de acordo com o cronograma estabelecido. Isso incluiu a definição de metas claras e alcançáveis, a priorização de tarefas com base na urgência e importância, a utilização de ferramentas de planejamento como listas de tarefas e calendários, e a alocação de tempo adequado para cada atividade. Ao manter uma abordagem disciplinada e organizada para a gestão do tempo, pude maximizar a minha produtividade e contribuir de forma eficaz para o sucesso do projeto.
-
 > Compromisso: Foi dedicado um esforço significativos em estudos autônomos para dominar novas linguagens de programação e frameworks relevantes para o projeto. Isso incluiu a participação em cursos online, leitura de documentação técnica, realização de tutoriais práticos e experimentação ativa com as ferramentas necessárias para o desenvolvimento do backend.
 
 > Comunicação: A habilidade de comunicação foi essencial para garantir uma colaboração eficaz entre os membros da equipe, permitindo o compartilhamento claro de informações, ideias e feedback. Utilizei canais de comunicação adequados, como reuniões e mensagens para garantir que todos estivessem alinhados com os objetivos do projeto e para resolver quaisquer dúvidas ou problemas de forma rápida e eficiente. Além disso, fui proativo na expressão de minhas próprias ideias e na escuta atenta das contribuições dos outros membros da equipe, promovendo um ambiente de trabalho colaborativo e inclusivo.
