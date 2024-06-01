@@ -240,3 +240,53 @@ Implementação de Tabela Interativa no Backend -  Realizo com auxílio <br>
 > Colaboração Efetiva: Colaboração efetivamente com outros membros da equipe, compartilhando conhecimentos e coordenando esforços para alcançar os objetivos comuns do projeto.
 
 
+
+
+##
+
+### Em 2024-1
+Empresa Parceira: ORACLE
+
+O projeto do quarto semestre foi destinado à Oracle, onde a proposta era desenvolver um sistema de gestão de parceiros eficiente e acessível via plataforma mobile. O objetivo principal era cadastrar novos parceiros, gerenciar atualizações de informações, acompanhar o desenvolvimento de conhecimento dos parceiros e fornecer relatórios relevantes. Foram desenvolvidas diversas interfaces, incluindo uma para o cadastro de novos parceiros e outra para o desenvolvimento contínuo desses parceiros. O sistema também incluiu um Dashboard de indicadores de desempenho, que fornece uma visão detalhada sobre o progresso e a eficiência dos parceiros. Adicionalmente, um Relatório Analítico foi implementado para avaliar os parceiros com base nos produtos implementados, permitindo uma análise profunda e informada sobre o desempenho individual de cada parceiro. Este projeto visou não apenas simplificar a gestão de parceiros, mas também proporcionar uma ferramenta robusta para acompanhar e fomentar o desenvolvimento de conhecimento, promovendo uma gestão eficiente e informada dentro do ecossistema da Oracle.
+
+Confira mais informações sobre esse projeto clicando nesse link ->
+[GIT](https://github.com/atomofatec/API-ORACLE)
+
+<br>
+
+#### Tecnologias Utilizadas
+
+Visual Studio Code: Ambiente de desenvolvimento integrado (IDE) utilizado para a codificação. <br>
+JavaScript: Utilizada para o desenvolvimento dos sistemas. <br>
+React Native: Utilizada para estruturação das interfaces no frontend.<br>
+PostgreSQL: Armazenamento e manipulação de dados. <br>
+MongoBD: Armazenamento e manipulação de dados. <br>
+Figma: Utilizado para desenvolver o protótipo Wireframe apresentado ao cliente. <br>
+GitHub: Utilizado para o controle de versão e documentação do projeto. <br>
+Canva: Utilizado para criar elementos gráficos e visuais para a documentação e apresentações do projeto. <br>
+
+
+<br>
+
+#### Contribuições Pessoais
+
+Nesse projeto, concentrei minhas contribuições no desenvolvimento do backend. Inicialmente, me dediquei à criação do sistema de login, garantindo uma autenticação segura para os usuários da plataforma. Em seguida, desenvolvi o sistema de atualização de parceiros, permitindo a modificação e atualização das informações dos parceiros de forma eficiente. Posteriormente, fui responsável pelo desenvolvimento do Sistema Program Tasks, facilitando o gerenciamento e acompanhamento das tarefas dos parceiros. Por fim, implementei a listagem geral, permitindo uma visualização completa e organizada dos dados. Minhas contribuições foram fundamentais para garantir a funcionalidade e a segurança do sistema.
+<br>
+<br>
+
+#### Hard Skills
+
+Desenvolvimento de Sistema de Login - Realizo com autonomia <br>
+Desenvolvimento de Sistema de Atualização de Parceiros - Realizo com autonomia <br>
+Desenvolvimento de Sistema Program Tasks- Realizo com auxílio <br>
+Desenvolvimento de Listagens Gerais - Realizei com autonomia<br>
+
+<br>
+
+#### Soft Skills
+
+> Iniciativa e Criatividade: Tomou a iniciativa de melhorar os slides das apresentações, criando um design original e templates para as sprints subsequentes. Essas melhorias não apenas elevaram a qualidade visual das apresentações, mas também aprimoraram a imagem do grupo, demonstrando compromisso com a excelência e a criatividade.
+
+> Autonomia: Demonstrou grande autonomia na execução de tarefas críticas, como o desenvolvimento do sistema de login e a implementação do Sistema Program Tasks. Assumiu responsabilidades importantes e entregou resultados consistentes, garantindo o progresso contínuo do projeto sem a necessidade de supervisão constante.
+
+> Proximidade com a Equipe: Manteve uma proximidade com a equipe, facilitando a comunicação e a colaboração. Essa abordagem permitiu resolver problemas rapidamente, compartilhar conhecimentos e coordenar esforços, assegurando que todos estivessem alinhados e trabalhando em direção aos mesmos objetivos.
