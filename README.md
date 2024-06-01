@@ -86,8 +86,6 @@ Hospedagem com Python, Flask e AWS - Realizo com auxílio <br>
 
 > Gestão de tempo: Empreguei diversas técnicas de gestão do tempo para garantir que o projeto avançasse de acordo com o cronograma estabelecido. Isso incluiu a definição de metas claras e alcançáveis, a priorização de tarefas com base na urgência e importância, a utilização de ferramentas de planejamento como listas de tarefas e calendários, e a alocação de tempo adequado para cada atividade. Ao manter essa abordagem disciplinada e organizada para a gestão do tempo, pude maximizar a minha produtividade e contribuir de forma eficaz para o sucesso do projeto.
 
-<br>
-
 ##
 
 ### Em 2022-2
