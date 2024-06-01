@@ -92,6 +92,7 @@ Hospedagem com Python, Flask e AWS - Realizo com auxílio <br>
 
 ### Em 2022-2
 Empresa Parceira: TRACKCASH
+
 O projeto do segundo semestre foi focado no desenvolvimento de uma aplicação desktop em Java, projetada para facilitar o registro de canais de marketplaces, métodos de pagamento, plataformas e sistemas ERP. A aplicação permite o cadastramento seguro de informações críticas, como usuários, senhas e tokens fornecidos pelos clientes. Essa ferramenta é essencial para que nossa empresa parceira possa acessar e gerenciar as finanças das instituições cadastradas. Além disso, o software dispõe de funcionalidades para criação e gerenciamento de contas de usuários e operadores, e inclui interfaces específicas para adicionar, editar e gerenciar canais de forma eficiente e intuitiva. 
 
 
