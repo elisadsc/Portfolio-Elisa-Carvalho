@@ -70,22 +70,22 @@ Além de criar e atualizar o conteúdo, também assumi a responsabilidade de ide
 <br>
 
 <details>
-<summary><h3>Desenvolvimento web com HTML</h3></summary>
+<summary>Desenvolvimento web com HTML</summary>
 Descrição + Link
 </details>
 <br>
 <details>
-<summary><h3>Estilização de Páginas Web com CSS</h3></summary>
+<summary>Estilização de Páginas Web com CSS</summary>
 Descrição + Link
 </details>
 <br>
 <details>
-<summary><h3>Plotagem de Gráficos com Python</h3></summary>
+<summary>Plotagem de Gráficos com Python</summary>
 Descrição + Link
 </details>
 <br>
 <details>
-<summary><h3>Hospedagem com Python, Flask e AWS</h3></summary>
+<summary>Hospedagem com Python, Flask e AWS</summary>
 Descrição + Link
 </details>
 
