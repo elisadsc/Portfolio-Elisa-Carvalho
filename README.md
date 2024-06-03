@@ -90,8 +90,9 @@ Utilizei bibliotecas como Matplotlib e Seaborn para plotar gráficos que represe
 Configurei a hospedagem do projeto utilizando Flask como framework web e AWS para o ambiente de produção. Trabalhei na implantação da aplicação, assegurando que ela fosse escalável, segura e estivesse sempre disponível para os usuários. Configurei os serviços de backend, gerenciei bancos de dados e implementei práticas de segurança para proteger os dados do usuário.
 </details>
 
-
 <br>
+<br>
+##
 <br>
 
 #### Hard Skills
