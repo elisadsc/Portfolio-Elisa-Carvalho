@@ -95,8 +95,7 @@ Configurei a hospedagem do projeto utilizando Flask como framework web e AWS par
 </details>
 
 <br>
-<br>
-##
+
 
 
 #### Hard Skills
