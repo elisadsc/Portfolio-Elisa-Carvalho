@@ -1,6 +1,19 @@
 # Portfolio - Elisa Carvalho
 
 
+<p align="center">
+  <a href ="#Em-2022-1">2022-1 </a>  • 
+  <a href ="#proposta">Proposta </a>  • 
+  <a href ="#cronograma-das-sprints">Cronograma das Sprints </a>  • 
+  <a href ="#product-backlog">Product Backlog </a>  •
+  <a href ="#sprints-backlog">Sprints Backlog </a>  •
+  <a href ="#1ª-sprint">Produto</a>  •
+  <a href ="#equipe">Equipe</a> 
+</p>
+
+
+
+
 ## Introdução
 
 <img align="right" src="https://github.com/elisadsc/Portfolio-Elisa-Carvalho/blob/main/Imagens/Elisa.jpeg" alt="Elisa.jpeg" width="200"/>
