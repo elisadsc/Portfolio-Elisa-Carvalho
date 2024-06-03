@@ -1,11 +1,4 @@
 # Portfolio - Elisa Carvalho 
-<p align="right">
-  <a href ="#Em-2022-1">2022-1 </a>  • 
-  <a href ="#Em-2022-2">2022-2 </a>  • 
-  <a href ="#Em-2023-1">2023-1 </a>  • 
-  <a href ="#Em-2023-2">2023-2 </a>  •
-  <a href ="#Em-2024-1">2024-1 </a>  
-</p>
 
 ## Introdução
 
@@ -13,12 +6,13 @@
 
 Técnica em Desenvolvimento de Sistemas pela ETEC - Ilza Nascimento Pintus, estudante do 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos - Prof. Jessen Vidal e Analista de Business Intelligence Trainee na V4 Company Wendling & Co. Meu interesse na área da tecnologia se intensificou no início do curso de Desenvolvimento de Sistemas, quando tive meu primeiro contato com HTML, CSS, arduíno, banco de dados e design digital. <br> Minha primerira experiência profissional na área foi como estagiária no CEPHAS (Colégio de Educação Profissional Hélio Augusto de Souza) onde fazia instalação e manutenção dos equipamentos de informática da instituição, instalação e suporte aos sistemas corporativos, ferramentas google e softwares utilizados pela instituição. Help desk: Atendimento e suporte aos usuários (professores e funcionários), suporte e manutenção a rede local, instalação e crimpagem de cabos. Também tive a oportunidade de estagiar na Cidade da Educação (Centro educacional em São José dos Campos) onde era realizado o atendimento e suporte remoto às escolas da Prefeitura Municipal de São José dos Campos. Instalação de impressoras, ferramentas google e softwares utilizados pela instituição. 
 <br>
+Resumo de projetos: 
 <p align="left">
-  <a href ="#Em-2022-1">2022-1 </a>  • 
-  <a href ="#Em-2022-2">2022-2 </a>  • 
-  <a href ="#Em-2023-1">2023-1 </a>  • 
-  <a href ="#Em-2023-2">2023-2 </a>  •
-  <a href ="#Em-2024-1">2024-1 </a>  
+  <a href ="#Em-2022-1">2022-1: FINDAT </a>  • 
+  <a href ="#Em-2022-2">2022-2: TRACKCASH </a>  • 
+  <a href ="#Em-2023-1">2023-1: VISIONA</a>  • 
+  <a href ="#Em-2023-2">2023-2: GREENNEAT </a>  •
+  <a href ="#Em-2024-1">2024-1: ORACLE </a>  
 </p>
 <br>
 
