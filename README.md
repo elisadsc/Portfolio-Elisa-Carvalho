@@ -3,12 +3,10 @@
 
 <p align="center">
   <a href ="#Em-2022-1">2022-1 </a>  • 
-  <a href ="#proposta">Proposta </a>  • 
-  <a href ="#cronograma-das-sprints">Cronograma das Sprints </a>  • 
-  <a href ="#product-backlog">Product Backlog </a>  •
-  <a href ="#sprints-backlog">Sprints Backlog </a>  •
-  <a href ="#1ª-sprint">Produto</a>  •
-  <a href ="#equipe">Equipe</a> 
+  <a href ="#Em-2022-2">2022-2 </a>  • 
+  <a href ="#Em-2023-1">2023-1 </a>  • 
+  <a href ="#Em-2023-2">2023-2 </a>  •
+  <a href ="#Em-2024-1">2024-1 </a>  
 </p>
 
 
