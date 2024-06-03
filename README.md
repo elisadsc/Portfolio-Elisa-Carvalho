@@ -72,28 +72,32 @@ Além de criar e atualizar o conteúdo, também assumi a responsabilidade de ide
 
 <details>
 <summary>Desenvolvimento web com HTML</summary>
+<br>
 Criei e atualizei a estrutura da página de cursos e certificações utilizando HTML. Desenvolvi a organização e formatação da página, garantindo que o conteúdo estivesse bem estruturado e fácil de navegar. Trabalhei para assegurar que a apresentação da informação fosse clara e acessível, proporcionando uma experiência de usuário intuitiva e eficiente.
 </details>
 <br>
 <details>
 <summary>Estilização de Páginas Web com CSS</summary>
+<br>
 Implementei estilos personalizados para as páginas do projeto utilizando CSS. Foquei em aprimorar a estética e a usabilidade, criando um design atraente e funcional. Trabalhei na padronização visual e na melhoria da responsividade das páginas, garantindo uma apresentação consistente em diferentes dispositivos e tamanhos de tela.
 </details>
 <br>
 <details>
 <summary>Plotagem de Gráficos com Python</summary>
+<br>
 Utilizei bibliotecas como Matplotlib e Seaborn para plotar gráficos que representavam dados críticos do projeto. Esses gráficos foram integrados nas páginas para fornecer uma visualização clara e concisa de informações complexas. Minha contribuição ajudou a transformar dados brutos em insights visuais compreensíveis, facilitando a análise e a tomada de decisões.
 </details>
 <br>
 <details>
 <summary>Hospedagem com Python, Flask e AWS</summary>
+<br>
 Configurei a hospedagem do projeto utilizando Flask como framework web e AWS para o ambiente de produção. Trabalhei na implantação da aplicação, assegurando que ela fosse escalável, segura e estivesse sempre disponível para os usuários. Configurei os serviços de backend, gerenciei bancos de dados e implementei práticas de segurança para proteger os dados do usuário.
 </details>
 
 <br>
 <br>
 ##
-<br>
+
 
 #### Hard Skills
 
