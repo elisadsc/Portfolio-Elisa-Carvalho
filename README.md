@@ -163,7 +163,6 @@ Implementei a conexão com o banco de dados, assegurando uma comunicação segur
  <a href="https://github.com/atomofatec/API-TRACKCASH/commit/ced05943ef519677b9e34c95c7159b7de3d5e2c2#diff-aab73bef8f60ba4cf015015dfe98675c8ed5b18150808b90ea22a2810671b09c">Confira o código nesse link.</a>
 </details>
 <br>
-<br>
 <details>
 <summary>Desenvolvimento da Tela de Cadastro (back-end)</summary>
 <br>
