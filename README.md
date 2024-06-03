@@ -156,8 +156,6 @@ MySQL: Utilizado para gerenciar o banco de dados da aplicação, armazenando inf
 
 Nesse projeto, fui responsável pela implementação da conexão com o banco de dados, assegurando uma comunicação segura e eficiente para suportar todas as funcionalidades do sistema. Desenvolvi as lógicas das telas de cadastro e login, implementando validações robustas para garantir a integridade e segurança dos dados dos usuários. Além disso, criei a tela de configurações ativas, permitindo aos usuários personalizar suas preferências e configurações de conta, melhorando significativamente a experiência do usuário dentro da aplicação.
 <br>
-<br>
-
 <details>
 <summary>Conexão com Banco de Dados</summary>
 <br>
