@@ -158,7 +158,12 @@ Nesse projeto, fui responsável pela implementação da conexão com o banco de 
 <br>
 <br>
 
-
+<details>
+<summary>Conexão com Banco de Dados</summary>
+<br>
+Implementei a conexão com o banco de dados, assegurando uma comunicação segura e eficiente para suportar todas as funcionalidades do sistema. Configurei os parâmetros de conexão e gerenciei as operações de leitura e escrita, garantindo a integridade e a segurança dos dados. 
+ <a href="https://github.com/atomofatec/API-TRACKCASH/commit/ced05943ef519677b9e34c95c7159b7de3d5e2c2#diff-aab73bef8f60ba4cf015015dfe98675c8ed5b18150808b90ea22a2810671b09c">Confira o código nesse link.</a>
+</details>
 <details>
 <summary>Desenvolvimento da Tela de Cadastro (back-end)</summary>
 <br>
@@ -169,14 +174,17 @@ Desenvolvi a lógica de back-end para a tela de cadastro, implementando validaç
 <details>
 <summary>Criação de Tela de Configurações Ativas</summary>
 <br>
-Criei a tela de configurações ativas, permitindo aos usuários personalizar suas preferências e configurações de conta. Desenvolvi funcionalidades para salvar e carregar as configurações, melhorando significativamente a experiência do usuário dentro da aplicação. Confira o código nesse link: [Código](https://github.com/atomofatec/API-TRACKCASH/commit/ced05943ef519677b9e34c95c7159b7de3d5e2c2#diff-cae20b3628b3f74eb2d0f624f97e5c0a1b756c122e0b72ead998fa8147827822)
+Criei a tela de configurações ativas, permitindo aos usuários personalizar suas preferências e configurações de conta. Desenvolvi funcionalidades para salvar e carregar as configurações, melhorando significativamente a experiência do usuário dentro da aplicação. 
+ <a href="https://github.com/atomofatec/API-TRACKCASH/commit/ced05943ef519677b9e34c95c7159b7de3d5e2c2#diff-cae20b3628b3f74eb2d0f624f97e5c0a1b756c122e0b72ead998fa8147827822">Confira o código nesse link.</a>
 </details>
 <br>
 <details>
 <summary>Desenvolvimento da Tela de Login (back-end)</summary>
 <br>
-Desenvolvi a lógica de back-end para a tela de login, implementando autenticação segura e validações para garantir a integridade dos dados dos usuários. Configurei mecanismos de proteção contra acesso não autorizado, assegurando a segurança das informações de login. Confira o código nesse link: [Código](https://github.com/atomofatec/API-TRACKCASH/commit/ced05943ef519677b9e34c95c7159b7de3d5e2c2#diff-a708cfbc4d789001c0590ac67c52396b14385a235901127a11be1dcda3e9a88d)
+Desenvolvi a lógica de back-end para a tela de login, implementando autenticação segura e validações para garantir a integridade dos dados dos usuários. Configurei mecanismos de proteção contra acesso não autorizado, assegurando a segurança das informações de login. 
+ <a href="https://github.com/atomofatec/API-TRACKCASH/commit/ced05943ef519677b9e34c95c7159b7de3d5e2c2#diff-a708cfbc4d789001c0590ac67c52396b14385a235901127a11be1dcda3e9a88d">Confira o código nesse link.</a> 
 </details>
+
 
 
 <br>
