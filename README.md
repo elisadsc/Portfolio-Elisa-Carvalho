@@ -8,7 +8,7 @@ Técnica em Desenvolvimento de Sistemas pela ETEC - Ilza Nascimento Pintus, estu
 <br>
 <br>
 
- > **Projetos que participei:**
+ > **Índice**
  <p align="left" style="color: gray;">
   <a href="#Em-2022-1">2022-1: FINDAT</a>  • 
   <a href="#Em-2022-2">2022-2: TRACKCASH</a>  • 
