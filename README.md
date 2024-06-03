@@ -156,6 +156,7 @@ MySQL: Utilizado para gerenciar o banco de dados da aplicação, armazenando inf
 
 Nesse projeto, fui responsável pela implementação da conexão com o banco de dados, assegurando uma comunicação segura e eficiente para suportar todas as funcionalidades do sistema. Desenvolvi as lógicas das telas de cadastro e login, implementando validações robustas para garantir a integridade e segurança dos dados dos usuários. Além disso, criei a tela de configurações ativas, permitindo aos usuários personalizar suas preferências e configurações de conta, melhorando significativamente a experiência do usuário dentro da aplicação.
 <br>
+<br> 
 <details>
 <summary>Conexão com Banco de Dados</summary>
 <br>
@@ -183,8 +184,6 @@ Criei a tela de configurações ativas, permitindo aos usuários personalizar su
 Desenvolvi a lógica de back-end para a tela de login, implementando autenticação segura e validações para garantir a integridade dos dados dos usuários. Configurei mecanismos de proteção contra acesso não autorizado, assegurando a segurança das informações de login. 
  <a href="https://github.com/atomofatec/API-TRACKCASH/commit/ced05943ef519677b9e34c95c7159b7de3d5e2c2#diff-a708cfbc4d789001c0590ac67c52396b14385a235901127a11be1dcda3e9a88d">Confira o código nesse link.</a> 
 </details>
-
-
 
 <br>
 
@@ -265,7 +264,7 @@ Implementei um sistema de paginação eficiente, que melhorou a navegação e a 
  <a href="https://github.com/atomofatec/API-VISIONA/commit/78a825c3ca817488295b195b00970e13c5a12268">Confira o código nesse link.</a> 
 </details>
 
-
+<br>
 
 #### Hard Skills
 
@@ -346,7 +345,7 @@ Criei o formulário de edição de usuário, facilitando a atualização das inf
 Implementei uma tabela interativa no backend, possibilitando aos usuários visualizar e manipular dados de maneira dinâmica. A tabela foi desenvolvida para oferecer funcionalidades como paginação, ordenação e filtros, melhorando significativamente a experiência do usuário na gestão de dados.
  <a href="https://github.com/atomofatec/API-GREENNEAT/commit/bb6ba42673043d64c584fec19a1aec9fe31fae25#diff-8f79e45ea4a31713a47a85ef725d746cb8452866fdc17e6ea18958f15e4dd3d4">Confira o código nesse link.</a>
 </details>
-<br>
+
 <br>
 
 
@@ -400,7 +399,7 @@ Canva: Utilizado para criar elementos gráficos e visuais para a documentação 
 
 Nesse projeto, concentrei minhas contribuições no desenvolvimento do backend. Inicialmente, me dediquei à criação do sistema de login, garantindo uma autenticação segura para os usuários da plataforma. Em seguida, desenvolvi o sistema de atualização de parceiros, permitindo a modificação e atualização das informações dos parceiros de forma eficiente. Posteriormente, fui responsável pelo desenvolvimento do Sistema Program Tasks, facilitando o gerenciamento e acompanhamento das tarefas dos parceiros. Por fim, implementei a listagem geral, permitindo uma visualização completa e organizada dos dados. Minhas contribuições foram fundamentais para garantir a funcionalidade e a segurança do sistema.
 <br>
-<br>
+
 
 
 <details>
@@ -431,7 +430,6 @@ Implementei a listagem geral, permitindo uma visualização completa e organizad
  <a href="https://github.com/atomofatec/BACK-ORACLE/commit/c6d7aa50b5315fd2b6277625e93d109bb5d63c57">Confira o código nesse link.</a>
 </details>
 
-<br>
 <br>
 
 #### Hard Skills
