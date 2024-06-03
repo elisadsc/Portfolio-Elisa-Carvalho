@@ -68,6 +68,29 @@ Além disso, fui responsável por conduzir uma extensa pesquisa de cursos releva
 
 Além de criar e atualizar o conteúdo, também assumi a responsabilidade de identificar e corrigir quaisquer problemas ou deficiências nas páginas existentes. Isso incluiu a implementação de melhorias na usabilidade, correções de erros de codificação e aprimoramentos na apresentação visual. Trabalhei em colaboração com a equipe para garantir que todas as páginas estivessem funcionando corretamente e oferecessem uma experiência de usuário otimizada 
 <br>
+
+<details>
+<summary><h3>Desenvolvimento web com HTML</h3></summary>
+Descrição + Link
+</details>
+<br>
+<details>
+<summary><h3>Estilização de Páginas Web com CSS</h3></summary>
+Descrição + Link
+</details>
+<br>
+<details>
+<summary><h3>Plotagem de Gráficos com Python</h3></summary>
+Descrição + Link
+</details>
+<br>
+<details>
+<summary><h3>Hospedagem com Python, Flask e AWS</h3></summary>
+Descrição + Link
+</details>
+
+
+<br>
 <br>
 
 #### Hard Skills
