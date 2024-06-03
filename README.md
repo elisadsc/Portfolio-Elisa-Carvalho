@@ -98,7 +98,7 @@ Implementei estilos personalizados para as páginas do projeto utilizando CSS. F
 <details>
 <summary>Plotagem de Gráficos com Python</summary>
 <br>
-Utilizei bibliotecas como Matplotlib e Seaborn para plotar gráficos que representavam dados críticos do projeto. Esses gráficos foram integrados nas páginas para fornecer uma visualização clara e concisa de informações complexas. Minha contribuição ajudou a transformar dados brutos em insights visuais compreensíveis, facilitando a análise e a tomada de decisões.
+Os gráficos foram integrados nas páginas para fornecer uma visualização clara e concisa de informações complexas. Minha contribuição ajudou a transformar dados brutos em insights visuais compreensíveis, facilitando a análise e a tomada de decisões.
 </details>
 <br>
 <details>
@@ -156,6 +156,37 @@ MySQL: Utilizado para gerenciar o banco de dados da aplicação, armazenando inf
 
 Nesse projeto, fui responsável pela implementação da conexão com o banco de dados, assegurando uma comunicação segura e eficiente para suportar todas as funcionalidades do sistema. Desenvolvi as lógicas das telas de cadastro e login, implementando validações robustas para garantir a integridade e segurança dos dados dos usuários. Além disso, criei a tela de configurações ativas, permitindo aos usuários personalizar suas preferências e configurações de conta, melhorando significativamente a experiência do usuário dentro da aplicação.
 <br>
+<br>
+
+
+<details>
+<summary>Desenvolvimento da Tela de Cadastro (back-end)</summary>
+<br>
+Desenvolvi a lógica de back-end para a tela de cadastro, implementando validações robustas para garantir a integridade e segurança dos dados dos usuários. 
+ <details>
+ Confira o código nesse link: [Código](https://github.com/atomofatec/API-TRACKCASH/commit/ced05943ef519677b9e34c95c7159b7de3d5e2c2#diff-3674321f20e8535124ad3e58b4afd9434a084a326a504d290e84078091eee001)
+ </details>
+</details>
+<br>
+<details>
+<summary>Criação de Tela de Configurações Ativas</summary>
+<br>
+Criei a tela de configurações ativas, permitindo aos usuários personalizar suas preferências e configurações de conta. Desenvolvi funcionalidades para salvar e carregar as configurações, melhorando significativamente a experiência do usuário dentro da aplicação.
+ <details>
+ Confira o código nesse link: [Código](https://github.com/atomofatec/API-TRACKCASH/commit/ced05943ef519677b9e34c95c7159b7de3d5e2c2#diff-cae20b3628b3f74eb2d0f624f97e5c0a1b756c122e0b72ead998fa8147827822)
+ </details>
+</details>
+<br>
+<details>
+<summary>Desenvolvimento da Tela de Login (back-end)</summary>
+<br>
+Desenvolvi a lógica de back-end para a tela de login, implementando autenticação segura e validações para garantir a integridade dos dados dos usuários. Configurei mecanismos de proteção contra acesso não autorizado, assegurando a segurança das informações de login.
+ <details>
+ Confira o código nesse link: [Código](https://github.com/atomofatec/API-TRACKCASH/commit/ced05943ef519677b9e34c95c7159b7de3d5e2c2#diff-a708cfbc4d789001c0590ac67c52396b14385a235901127a11be1dcda3e9a88d)
+ </details>
+</details>
+<details>
+
 <br>
 
 #### Hard Skills
