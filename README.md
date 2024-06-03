@@ -164,6 +164,8 @@ Nesse projeto, fui responsável pela implementação da conexão com o banco de 
 Implementei a conexão com o banco de dados, assegurando uma comunicação segura e eficiente para suportar todas as funcionalidades do sistema. Configurei os parâmetros de conexão e gerenciei as operações de leitura e escrita, garantindo a integridade e a segurança dos dados. 
  <a href="https://github.com/atomofatec/API-TRACKCASH/commit/ced05943ef519677b9e34c95c7159b7de3d5e2c2#diff-aab73bef8f60ba4cf015015dfe98675c8ed5b18150808b90ea22a2810671b09c">Confira o código nesse link.</a>
 </details>
+<br>
+<br>
 <details>
 <summary>Desenvolvimento da Tela de Cadastro (back-end)</summary>
 <br>
@@ -241,6 +243,33 @@ Neste projeto, atuei como Scrum Master, liderando a equipe através de sprints e
 <br>
 <br>
 
+<details>
+<summary>Gestão Ágil de Projetos (Scrum Master)</summary>
+<br>
+Atuei como Scrum Master, responsável pelo README do projeto, liderando a equipe através de sprints e mantendo o foco nos objetivos do projeto. Garanti que todas as tarefas fossem completadas dentro dos prazos estabelecidos e seguindo as melhores práticas ágeis, facilitando reuniões diárias e removendo impedimentos.  <a href="https://github.com/atomofatec/API-VISIONA/blob/main/README.md">Confira o README do projeto nesse link.</a> 
+</details>
+<br>
+<details>
+<summary>Desenvolvimento da Tela de Dashboard</summary>
+<br>
+Fui responsável pelo desenvolvimento da tela de Dashboard, onde implementei funcionalidades interativas para visualização de dados críticos de maneira intuitiva. Assegurei que o design do dashboard fosse claro e informativo, facilitando a análise de dados pelos usuários.  <a href="https://github.com/atomofatec/API-VISIONA/commit/2de89edcd9dbb0d460f374ae2cf125fa3c074f2c">Confira o código nesse link.</a> 
+</details>
+<br>
+<details>
+<summary>Personalização da Tela de Dashboard</summary>
+<br>
+Trabalhei na personalização da tela de Dashboard, permitindo que os usuários configurassem seus painéis de controle conforme suas necessidades específicas. Desenvolvi funcionalidades que permitiam a customização de widgets e a disposição dos elementos, melhorando a usabilidade e a experiência do usuário.  <a href="https://github.com/atomofatec/API-VISIONA/commit/33e29650b376e7d9ba1a12c882da7e4fdc126601">Confira o código nesse link.</a> 
+</details>
+<br>
+<details>
+<summary>Implementação de Sistemas de Paginação</summary>
+<br>
+Implementei um sistema de paginação eficiente, que melhorou a navegação e a acessibilidade dos dados. Este sistema permitiu a divisão de grandes volumes de informações em páginas menores, tornando a experiência do usuário mais ágil e responsiva.
+ <a href="https://github.com/atomofatec/API-VISIONA/commit/78a825c3ca817488295b195b00970e13c5a12268">Confira o código nesse link.</a> 
+</details>
+
+
+
 #### Hard Skills
 
 Gestão Ágil de Projetos (Scrum Master) - Realizo com autonomia <br>
@@ -293,6 +322,37 @@ Nesse projeto concentrei minhas contribuições no desenvolvimento do backend. I
 <br>
 <br>
 
+<details>
+<summary>Desenvolvimento de Sistema de Login</summary>
+<br>
+Desenvolvi o sistema de login, garantindo uma autenticação segura para os usuários da plataforma. Implementei funcionalidades de validação e proteção contra acessos não autorizados, assegurando a integridade e segurança dos dados de login.
+ <a href="https://github.com/atomofatec/API-GREENNEAT/commit/cdc88ab10f95789a633a064693dea62f1f1d4c8a">Confira o código nesse link.</a>
+</details>
+<br>
+<details>
+<summary>Desenvolvimento de Sistema de Atualização de Login</summary>
+<br>
+Desenvolvi o sistema de atualização de login, permitindo aos usuários modificar suas credenciais de forma segura e eficiente. Implementei validações rigorosas para garantir a integridade dos dados durante o processo de atualização.
+ <a href="https://github.com/atomofatec/API-GREENNEAT/commit/b515b7885b74dcfaeb14f4fe17e5022af56e4572">Confira o código nesse link.</a>
+</details>
+<br>
+<details>
+<summary>Desenvolvimento de Formulário de Edição de Usuário</summary>
+<br>
+Criei o formulário de edição de usuário, facilitando a atualização das informações de perfil dos usuários. Desenvolvi funcionalidades para garantir que as alterações fossem salvas corretamente e refletissem imediatamente no sistema, mantendo a consistência dos dados.
+ <a href="https://github.com/atomofatec/API-GREENNEAT/commit/bb6ba42673043d64c584fec19a1aec9fe31fae25">Confira o código nesse link.</a>
+</details>
+<br>
+<details>
+<summary>Implementação de Tabela Interativa no Backend</summary>
+<br>
+Implementei uma tabela interativa no backend, possibilitando aos usuários visualizar e manipular dados de maneira dinâmica. A tabela foi desenvolvida para oferecer funcionalidades como paginação, ordenação e filtros, melhorando significativamente a experiência do usuário na gestão de dados.
+ <a href="https://github.com/atomofatec/API-GREENNEAT/commit/bb6ba42673043d64c584fec19a1aec9fe31fae25#diff-8f79e45ea4a31713a47a85ef725d746cb8452866fdc17e6ea18958f15e4dd3d4">Confira o código nesse link.</a>
+</details>
+<br>
+<br>
+
+
 #### Hard Skills
 
 Desenvolvimento de Sistema de Login - Realizo com autonomia <br>
@@ -342,6 +402,38 @@ Canva: Utilizado para criar elementos gráficos e visuais para a documentação 
 #### Contribuições Pessoais
 
 Nesse projeto, concentrei minhas contribuições no desenvolvimento do backend. Inicialmente, me dediquei à criação do sistema de login, garantindo uma autenticação segura para os usuários da plataforma. Em seguida, desenvolvi o sistema de atualização de parceiros, permitindo a modificação e atualização das informações dos parceiros de forma eficiente. Posteriormente, fui responsável pelo desenvolvimento do Sistema Program Tasks, facilitando o gerenciamento e acompanhamento das tarefas dos parceiros. Por fim, implementei a listagem geral, permitindo uma visualização completa e organizada dos dados. Minhas contribuições foram fundamentais para garantir a funcionalidade e a segurança do sistema.
+<br>
+<br>
+
+
+<details>
+<summary>Desenvolvimento de Sistema de Login</summary>
+<br>
+Desenvolvi o sistema de login, garantindo uma autenticação segura para os usuários da plataforma. Implementei funcionalidades de validação e proteção contra acessos não autorizados, assegurando a integridade e segurança dos dados de login.
+ <a href="https://github.com/atomofatec/BACK-ORACLE/commit/960b37fb726800a1314d5a5962db9c5e71602851">Confira o código nesse link.</a>
+</details>
+<br>
+<details>
+<summary>Desenvolvimento de Sistema de Atualização de Parceiros</summary>
+<br>
+Desenvolvi o sistema de atualização de parceiros, permitindo a modificação e atualização das informações dos parceiros de forma eficiente. Criei funcionalidades que garantem que as alterações sejam salvas corretamente e refletidas de maneira consistente no sistema.
+ <a href="https://github.com/atomofatec/BACK-ORACLE/commit/5e880362a1e9a0c6a028c42df35d450db59fb8f2">Confira o código nesse link.</a>
+</details>
+<br>
+<details>
+<summary>Desenvolvimento de Sistema Program Tasks</summary>
+<br>
+Fui responsável pelo desenvolvimento do Sistema Program Tasks, facilitando o gerenciamento e acompanhamento das tarefas dos parceiros. Implementei funcionalidades para criar, atualizar e monitorar tarefas, proporcionando uma melhor organização e controle das atividades.
+ <a href="https://github.com/atomofatec/BACK-ORACLE/commit/8d27fde6793edfd29bb61c9dfbde030545e9da29">Confira o código nesse link.</a>
+</details>
+<br>
+<details>
+<summary>Desenvolvimento de Listagens Gerais</summary>
+<br>
+Implementei a listagem geral, permitindo uma visualização completa e organizada dos dados. 
+ <a href="https://github.com/atomofatec/BACK-ORACLE/commit/c6d7aa50b5315fd2b6277625e93d109bb5d63c57">Confira o código nesse link.</a>
+</details>
+
 <br>
 <br>
 
