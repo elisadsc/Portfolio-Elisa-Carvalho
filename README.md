@@ -162,7 +162,8 @@ Nesse projeto, fui responsável pela implementação da conexão com o banco de 
 <details>
 <summary>Desenvolvimento da Tela de Cadastro (back-end)</summary>
 <br>
-Desenvolvi a lógica de back-end para a tela de cadastro, implementando validações robustas para garantir a integridade e segurança dos dados dos usuários. Confira o código nesse link: [Código](https://github.com/atomofatec/API-TRACKCASH/commit/ced05943ef519677b9e34c95c7159b7de3d5e2c2#diff-3674321f20e8535124ad3e58b4afd9434a084a326a504d290e84078091eee001)
+Desenvolvi a lógica de back-end para a tela de cadastro, implementando validações robustas para garantir a integridade e segurança dos dados dos usuários.
+ <a href=“https://github.com/atomofatec/API-TRACKCASH/commit/ced05943ef519677b9e34c95c7159b7de3d5e2c2#diff-3674321f20e8535124ad3e58b4afd9434a084a326a504d290e84078091eee001“>Confira o código nesse link.</a>
 </details>
 <br>
 <details>
