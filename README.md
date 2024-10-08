@@ -24,6 +24,7 @@ Técnica em Desenvolvimento de Sistemas pela ETEC - Ilza Nascimento Pintus, estu
 
  <a href= "https://br.linkedin.com/in/elisa-carvalho-691322196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "https://github.com/elisadsc" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+ <a href = "mailto:elisadscarvalho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <br>
 
@@ -113,10 +114,10 @@ Configurei a hospedagem do projeto utilizando Flask como framework web e AWS par
 
 #### Hard Skills
 
-Desenvolvimento web com HTML - Realizo com autonomia <br>
+HTML - Realizo com autonomia <br>
 Estilização de Páginas Web com CSS - Realizo com autonomia <br>
 Plotagem de Gráficos com Python - Realizo com auxílio <br>
-Hospedagem com Python, Flask e AWS - Realizo com auxílio <br>
+Python, Flask e AWS - Realizo com auxílio <br>
 <br>
 
 #### Soft Skills
@@ -189,10 +190,9 @@ Desenvolvi a lógica de back-end para a tela de login, implementando autenticaç
 
 #### Hard Skills
 
-Conexão com Banco de Dados - Realizo com auxílio <br>
-Desenvolvimento da Tela de Cadastro (back-end) - Realizo com autonomia <br>
-Criação de Tela de Configurações Ativas - Realizo com auxílio <br>
-Desenvolvimento da Tela de Login (back-end) - Realizo com autonomia <br>
+Netbeans - Realizo com auxílio <br>
+MySQL - Realizo com autonomia <br>
+Java - Realizo com auxílio <br>
 <br>
 
 #### Soft Skills
@@ -229,7 +229,6 @@ PostgreSQL: Armazenamento e manipulação de dados. <br>
 Figma: Utilizado para desenvolver o protótipo Wireframe apresentado ao cliente. <br>
 GitHub: Utilizado para o controle de versão e documentação do projeto. <br>
 Canva: Utilizado para criar elementos gráficos e visuais para a documentação e apresentações do projeto. <br>
-
 
 <br>
 
@@ -268,10 +267,12 @@ Implementei um sistema de paginação eficiente, que melhorou a navegação e a 
 
 #### Hard Skills
 
-Gestão Ágil de Projetos (Scrum Master) - Realizo com autonomia <br>
-Desenvolvimento da Tela de Dashboard - Realizo com autonomia <br>
-Personalização da Tela de Dashboard - Realizo com autonomia <br>
-Implementação de Sistemas de Paginação - Realizo com auxílio <br>
+JavaScript - Realizo com autonomia <br>
+HTML5 - Realizo com autonomia <br>
+CSS3 - Realizo com autonomia <br>
+NodeJS - Realizo com autonomia <br>
+PostgreSQL - Realizo com auxílio <br>
+
 <br>
 
 #### Soft Skills
@@ -351,10 +352,11 @@ Implementei uma tabela interativa no backend, possibilitando aos usuários visua
 
 #### Hard Skills
 
-Desenvolvimento de Sistema de Login - Realizo com autonomia <br>
-Desenvolvimento de Sistema de Atualização de Login - Realizo com autonomia <br>
-Desenvolvimento de Formulário de Edição de Usuário - Realizo com autonomia <br>
-Implementação de Tabela Interativa no Backend -  Realizo com auxílio <br>
+JavaScript - Realizo com autonomia <br>
+HTML5 - Realizo com autonomia <br>
+CSS3 - Realizo com autonomia <br>
+NodeJS - Realizo com autonomia <br>
+PostgreSQL - Realizo com autonomia <br>
 
 <br>
 
@@ -434,10 +436,10 @@ Implementei a listagem geral, permitindo uma visualização completa e organizad
 
 #### Hard Skills
 
-Desenvolvimento de Sistema de Login - Realizo com autonomia <br>
-Desenvolvimento de Sistema de Atualização de Parceiros - Realizo com autonomia <br>
-Desenvolvimento de Sistema Program Tasks- Realizo com auxílio <br>
-Desenvolvimento de Listagens Gerais - Realizei com autonomia<br>
+JavaScript - Realizo com autonomia <br>
+React Native - Realizo com autonomia <br>
+PostgreSQL - Realizo com autonomia <br>
+MongoBD - Realizo com auxílio <br>
 
 <br>
 
