@@ -14,7 +14,8 @@ Técnica em Desenvolvimento de Sistemas pela ETEC - Ilza Nascimento Pintus, estu
   <a href="#Em-2022-2">2022-2: TRACKCASH</a>  • 
   <a href="#Em-2023-1">2023-1: VISIONA</a>  • 
   <a href="#Em-2023-2">2023-2: GREENNEAT</a>  • 
-  <a href="#Em-2024-1">2024-1: ORACLE</a>  
+  <a href="#Em-2024-1">2024-1: ORACLE</a>  • 
+  <a href="#Em-2024-2">2024-2: DOM ROCK</a> 
 </p>
 
 <br>
@@ -55,8 +56,9 @@ Técnica em Desenvolvimento de Sistemas pela ETEC - Ilza Nascimento Pintus, estu
 ## Meus Projetos
 
 ### Em 2022-1
+Cliente: Professor Antônio Egydio
 
-O projeto foi proposto por um cliente interno (um professor) onde o objetivo deste projeto era o desenvolvimento um sistema web para automatizar o processo de catalogar vagas de diversas profissões principalmente TI e configurar métricas para pontos como tipos de conhecimento, habilidades e competências. Visualmente deveria ter informações do tipo estratégicas (gráficos), facilidades de usabilidade e operação bem como toda a documentação de desenvolvimento lastreado no Github com todos os processos necessários para a fidelização do cliente.
+O projeto foi proposto por um cliente interno, Professor Antônio Egydio, onde o objetivo deste projeto era o desenvolvimento um sistema web para automatizar o processo de catalogar vagas de diversas profissões principalmente TI e configurar métricas para pontos como tipos de conhecimento, habilidades e competências. Visualmente deveria ter informações do tipo estratégicas (gráficos), facilidades de usabilidade e operação bem como toda a documentação de desenvolvimento lastreado no Github com todos os processos necessários para a fidelização do cliente.
 
 
 Confira mais informações sobre esse projeto clicando nesse link ->
@@ -131,7 +133,7 @@ Python, Flask e AWS - Realizo com auxílio <br>
 ##
 
 ### Em 2022-2
-Empresa Parceira: TRACKCASH
+Empresa Parceira: TRACKCASH - Plataforma online de conciliação financeira de vendas em marketplaces e cartões.
 
 O projeto do segundo semestre foi focado no desenvolvimento de uma aplicação desktop em Java, projetada para facilitar o registro de canais de marketplaces, métodos de pagamento, plataformas e sistemas ERP. A aplicação permite o cadastramento seguro de informações críticas, como usuários, senhas e tokens fornecidos pelos clientes. Essa ferramenta é essencial para que nossa empresa parceira possa acessar e gerenciar as finanças das instituições cadastradas. Além disso, o software dispõe de funcionalidades para criação e gerenciamento de contas de usuários e operadores, e inclui interfaces específicas para adicionar, editar e gerenciar canais de forma eficiente e intuitiva. 
 
@@ -207,7 +209,7 @@ Java - Realizo com auxílio <br>
 ##
 
 ### Em 2023-1
-Empresa Parceira: VISIONA
+Empresa Parceira: VISIONA - Empresa de Tecnologia Espacial voltada para a integração de sistemas espaciais e à prestação de serviços baseados em satélites.
 
 O projeto do terceiro semestre foi focado no desenvolvimento de um sistema de gerenciamento de usuários, complementado por serviços de autenticação e autorização, utilizando a tecnologia de microserviços e implementado sobre a infraestrutura da Google Cloud Platform (GCP). Construído com o emprego de containers e integrado em uma esteira de CI/CD, o sistema seguiu as melhores práticas de desenvolvimento orientado a objetos, adotando princípios SOLID, Clean Code e Clean Architecture. O backend foi implementado usando a linguagem NodeJS, com banco de dados Postgres, e o frontend foi desenvolvido com VueJS. O projeto incluiu a implementação de testes unitários e de integração para garantir uma cobertura de código de no mínimo 80%, sendo esta validada por ferramentas como SONAR. A interface do usuário foi desenhada para facilitar a gestão de contas, permitindo operações como criação, visualização, edição e remoção de usuários, além da atribuição de permissões específicas, garantindo controle detalhado e segurança no acesso ao sistema.
 
@@ -288,7 +290,7 @@ PostgreSQL - Realizo com auxílio <br>
 ##
 
 ### Em 2023-2
-Empresa Parceira: GREENNEAT
+Empresa Parceira: GREENNEAT - Empresa de produtos de limpeza sustentáveis
 
 O projeto do quarto semestre foi destinada à Greenneat, onde a proposta era desenvolver uma plataforma focada na gestão eficiente do processo de reciclagem de óleo de fritura usado. Foram desenvolvidos formulários de cadastro para os parceiros encarregados da coleta do óleo e para os estabelecimentos onde o mesmo é coletado. Além disso, um sistema de transação de créditos Greenneat foi implementado, permitindo a troca de créditos entre parceiros, estabelecimentos e a Greenneat. Os painéis de usuário foram projetados para oferecer um histórico e saldo de créditos, gestão de estabelecimentos, além de uma visão detalhada das transações realizadas. O painel administrativo possibilita o controle e a visualização de todo o processo, enquanto o dashboard de rankings oferece uma visão ampla do desempenho dos parceiros e estabelecimentos. Adicionalmente, um comparador de preços foi desenvolvido para facilitar a compreensão dos valores envolvidos. Este projeto visou não apenas simplificar, mas também incentivar a participação ativa na economia circular, promovendo práticas sustentáveis em toda a cadeia de reciclagem de óleo de fritura.
 
@@ -374,7 +376,7 @@ PostgreSQL - Realizo com autonomia <br>
 ##
 
 ### Em 2024-1
-Empresa Parceira: ORACLE
+Empresa Parceira: ORACLE - Empresa multinacional de tecnologia e informática norte-americana, especializada no desenvolvimento e comercialização de hardware, softwares, bancos de dados e serviços de nuvem.
 
 O projeto do quarto semestre foi destinado à Oracle, onde a proposta era desenvolver um sistema de gestão de parceiros eficiente e acessível via plataforma mobile. O objetivo principal era cadastrar novos parceiros, gerenciar atualizações de informações, acompanhar o desenvolvimento de conhecimento dos parceiros e fornecer relatórios relevantes. Foram desenvolvidas diversas interfaces, incluindo uma para o cadastro de novos parceiros e outra para o desenvolvimento contínuo desses parceiros. O sistema também incluiu um Dashboard de indicadores de desempenho, que fornece uma visão detalhada sobre o progresso e a eficiência dos parceiros. Adicionalmente, um Relatório Analítico foi implementado para avaliar os parceiros com base nos produtos implementados, permitindo uma análise profunda e informada sobre o desempenho individual de cada parceiro. Este projeto visou não apenas simplificar a gestão de parceiros, mas também proporcionar uma ferramenta robusta para acompanhar e fomentar o desenvolvimento de conhecimento, promovendo uma gestão eficiente e informada dentro do ecossistema da Oracle.
 
@@ -450,3 +452,125 @@ MongoBD - Realizo com auxílio <br>
 > Autonomia: Demonstrou grande autonomia na execução de tarefas críticas, como o desenvolvimento do sistema de login e a implementação do Sistema Program Tasks. Assumiu responsabilidades importantes e entregou resultados consistentes, garantindo o progresso contínuo do projeto sem a necessidade de supervisão constante.
 
 > Proximidade com a Equipe: Manteve uma proximidade com a equipe, facilitando a comunicação e a colaboração. Essa abordagem permitiu resolver problemas rapidamente, compartilhar conhecimentos e coordenar esforços, assegurando que todos estivessem alinhados e trabalhando em direção aos mesmos objetivos.
+
+
+
+
+
+##
+
+### Em 2024-2
+Empresa Parceira: DOM ROCK - Empresa de IA e Datalake
+
+O projeto do sexto semestre foi destinado à DOM ROCK, onde a proposta era desenvolver um chatbot baseado em Inteligência Artificial generativa, voltado para a análise de dados comerciais e feedbacks de clientes. O principal objetivo é facilitar a interpretação dos dados qualitativos (comentários e depoimentos de consumidores) sem a necessidade de utilizar dashboards complexos ou gráficos. O chatbot será capaz de responder perguntas específicas sobre o desempenho de produtos e a opinião dos consumidores, oferecendo respostas em linguagem natural e de forma clara, objetiva e direta.
+
+Confira mais informações sobre esse projeto clicando nesse link ->
+[GIT](https://github.com/atomofatec/API-DOMROCK)
+
+<br>
+
+#### Tecnologias Utilizadas
+
+Visual Studio Code: Ambiente de Desenvolvimento Integrado (IDE) utilizado para codificação. <br>
+Python: Linguagem utilizada para o desenvolvimento dos sistemas. <br>
+Llama3-8b-8192: Modelo de Linguagem (LLM) para geração de texto. <br>
+Sentence-transformers/all-MiniLM-L6-v2: Modelo de Linguagem (LLM) para geração de embeddings. <br>
+Pandas: Biblioteca para armazenamento e manipulação de dados. <br>
+Chroma DB: Banco de dados para armazenamento e consulta de embeddings <br>
+Spacy: Biblioteca de processamento de linguagem natural (NLP). <br>
+Framework LangChain: Framework para desenvolvimento de aplicações com modelos de linguagem. <br>
+Figma: Utilizado para desenvolver o protótipo Wireframe apresentado ao cliente. <br>
+GitHub: Utilizado para o controle de versão e documentação do projeto. <br>
+Canva: Utilizado para criar elementos gráficos e visuais para a documentação e apresentações do projeto. <br>
+
+
+<br>
+
+#### Contribuições Pessoais
+
+Neste projeto, atuei como Product Owner, sendo responsável por várias tarefas relacionadas ao planejamento e gestão do desenvolvimento. Minha principal função foi garantir o alinhamento entre o cliente e a equipe de desenvolvimento, desde o planejamento até a execução das sprints. Organizei e conduzi reuniões de planning poker com a equipe, ajudando a estimar o esforço das tarefas e priorizar as funcionalidades de acordo com as necessidades do cliente. Além disso, fui responsável pela criação e manutenção do backlog do produto, pela definição dos critérios de Definition of Ready (DoR) e Definition of Done (DoD), e pela organização das sprints no Jira. Tive uma participação ativa na comunicação com o cliente, sempre buscando entender suas necessidades e transformá-las em requisitos claros para a equipe. Também estive à frente da montagem de apresentações e slides no Canva, além de registrar e postar os vídeos das Sprint Reviews no YouTube para garantir que todos os stakeholders estivessem sempre atualizados sobre o progresso do projeto.
+
+
+<br>
+
+
+
+<details>
+<summary>Coordenação de Reuniões de Planejamento</summary>
+<br>
+Organizei e conduzi reuniões de planning poker com a equipe de desenvolvimento para estimar as tarefas das sprints, garantindo uma melhor previsão de esforço e alinhamento das prioridades.
+</details>
+<br>
+
+<details>
+<summary>Comunicação com o Cliente</summary>
+<br>
+Fui responsável por manter uma comunicação contínua com o cliente via Slack, garantindo o alinhamento das expectativas, esclarecimento de dúvidas e entendimento das necessidades para o desenvolvimento do projeto.
+</details>
+<br>
+
+<details>
+<summary>Gestão do Backlog do Produto</summary>
+<br>
+Criei e mantive o backlog do produto no GitHub, priorizando as funcionalidades de acordo com o valor para o cliente e definindo os requisitos para guiar o trabalho da equipe de desenvolvimento.
+</details>
+<br>
+
+<details>
+<summary>Organização das Sprints</summary>
+<br>
+Estruturei o backlog das sprints no Jira e garanti que as tarefas estivessem claras para a equipe, facilitando a execução das atividades dentro do prazo estabelecido.
+</details>
+<br>
+
+<details>
+<summary>Definição de DoRs e DoDs</summary>
+<br>
+Montei a tabela de Definition of Ready (DoR) e Definition of Done (DoD) no GitHub, garantindo que as entregas estivessem bem definidas, com critérios claros de aceitação e qualidade.
+</details>
+<br>
+
+<details>
+<summary>Gestão de Tarefas no Jira</summary>
+<br>
+Criei e organizei as tarefas no Jira, atualizando constantemente o backlog das sprints e garantindo que as equipes estivessem bem informadas sobre as prioridades e deadlines.
+</details>
+<br>
+
+<details>
+<summary>Resolução de Dúvidas do Cliente</summary>
+<br>
+Estive à disposição da equipe para esclarecer qualquer dúvida sobre as necessidades e expectativas do cliente, ajudando a alinhar os requisitos e garantindo a entrega de um produto que atendesse às suas expectativas.
+</details>
+<br>
+
+<details>
+<summary>Postagem de Vídeos no YouTube</summary>
+<br>
+Registrei e publiquei os vídeos das Sprint Reviews no YouTube, garantindo que todos os stakeholders tivessem acesso fácil às atualizações do progresso do projeto e das entregas feitas durante a sprint.
+Confira a playlist do projeto aqui: (https://youtube.com/playlist?list=PL1nd7wFNhURDm29xVH-xfdxnDSDWfPWht&si=Ssb5YD7b5mpjnyGX)
+</details>
+<br>
+<br>
+
+#### Hard Skills
+
+Python - Realizo com autonomia <br>
+Jira - Realizo com autonomia <br>
+Framework LangChain - Realizo com auxílio <br>
+
+
+<br>
+
+#### Soft Skills
+
+> Comunicação Eficaz: Como Product Owner, fui responsável por manter uma comunicação clara e constante com o cliente e a equipe de desenvolvimento. Isso envolveu não apenas transmitir informações de forma objetiva, mas também ser capaz de entender as necessidades do cliente e garantir que todos os stakeholders estejam alinhados com os objetivos do projeto.
+
+> Gestão de Equipe: Fui responsável por conduzir reuniões como Planning Poker, criar backlogs, definir prioridades, facilitar a colaboração entre as partes interessadas e a equipe de desenvolvimento, garantindo que todos trabalhassem juntos em direção a metas comuns.
+
+> Organização e Gestão de Tempo: Organizei o backlog do produto, backlog das sprints, tarefas no Jira e defini os DoRs e DoDs. Além disso, gerenciei múltiplos fluxos de trabalho, como reuniões, criação de tarefas, e comunicação com o cliente, mostrando capacidade de gerenciar o tempo de maneira eficaz para garantir a execução bem-sucedida do projeto.
+
+
+
+
+
