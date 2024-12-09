@@ -564,11 +564,11 @@ Framework LangChain - Realizo com auxílio <br>
 
 #### Soft Skills
 
-> Comunicação Eficaz: Como Product Owner, fui responsável por manter uma comunicação clara e constante com o cliente e a equipe de desenvolvimento. Isso envolveu não apenas transmitir informações de forma objetiva, mas também ser capaz de entender as necessidades do cliente e garantir que todos os stakeholders estejam alinhados com os objetivos do projeto.
+> Gestão de Equipe: No início do projeto, observei que as sessões de estimativa de tarefas no Planning Poker estavam sendo longas e pouco produtivas. Propus a adoção de um aplicativo de estimativa online (Planning Poker Online), que permitia que todos votassem simultaneamente e de forma anônima, reduzindo o tempo das discussões iniciais. Após a votação, discutíamos apenas as discrepâncias mais significativas. Essa prática aumentou a produtividade e reduziu o desgaste da equipe.
 
-> Gestão de Equipe: Fui responsável por conduzir reuniões como Planning Poker, criar backlogs, definir prioridades, facilitar a colaboração entre as partes interessadas e a equipe de desenvolvimento, garantindo que todos trabalhassem juntos em direção a metas comuns.
+> Ética no Trabalho: Como equipe, sempre buscamos manter uma postura profissional e respeitosa, seguindo as regras estabelecidas para o bom andamento do projeto. No entanto, houve momentos em que algumas dessas regras foram descumpridas, o que resultou na demissão de alguns colegas devido à postura inadequada e à não conclusão de tarefas ou trabalhos realizados de forma errônea. Em diversas ocasiões, destaquei a importância de comunicar quando precisassem de ajuda, para que pudéssemos solucionar problemas de forma eficiente. Acredito que manter o compromisso com as regras e com o respeito mútuo é fundamental para o sucesso de qualquer equipe e projeto.
 
-> Organização e Gestão de Tempo: Organizei o backlog do produto, backlog das sprints, tarefas no Jira e defini os DoRs e DoDs. Além disso, gerenciei múltiplos fluxos de trabalho, como reuniões, criação de tarefas, e comunicação com o cliente, mostrando capacidade de gerenciar o tempo de maneira eficaz para garantir a execução bem-sucedida do projeto.
+> Criticidade: Em diversos momentos, precisei adotar a ótica do cliente para entender melhor o que realmente era necessário e garantir que atendêssemos às suas expectativas. Foi o que aconteceu com o layout do projeto: embora o resultado final não tenha ficado exatamente igual ao protótipo, eu me vi na necessidade de insistir em certos detalhes do design, como a escolha da fonte e a organização das respostas do chatbot, para assegurar que o cliente tivesse exatamente o que ele queria. Essa abordagem me ajudou a focar nas prioridades críticas e a entregar um produto que atendesse às necessidades do cliente de forma eficaz.
 
 
 
